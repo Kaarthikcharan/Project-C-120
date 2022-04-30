@@ -1,0 +1,10 @@
+body{
+    color: cornflowerblue;
+    background-color: darkslateblue;   
+}
+canvas{
+    border:10px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px darkslategray;
+    margin-top:160px;
+  }
